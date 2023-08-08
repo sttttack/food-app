@@ -12,7 +12,7 @@ export default function Header(props) {
       <div>
         <img
           className={classes["main-image"]}
-          src="https://images.squarespace-cdn.com/content/v1/5a90252eda02bc96f23b007a/1519996100608-UH81HHXCYG6XXKHIXNXD/Food_header.jpg?format=2500w"
+          src="https://nemep.unl.edu/styles/unl_hero_large/public/images/hero/mccain-foods-selection-of-food-header.jpeg?itok=E4If27M3"
           alt="Food"
         />
       </div>
